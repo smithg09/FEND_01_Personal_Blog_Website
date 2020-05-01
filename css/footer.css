@@ -2,7 +2,7 @@
 .footer {
     border: 0.1rem;
     border-color: black;
-    background-color: var(--background_color_two);
+    background-color: var(--bg-color-black);
 }
 
 .footer_inner {
@@ -12,8 +12,8 @@
     padding: 3.375rem 0;
 }
 
-.page_menu_footer_a {
-    color: var(--text_color_one);
+.links-footer_a {
+    color: white;
     font-weight: 500;
     font-size: 0.875rem;
     padding: 0.625rem;

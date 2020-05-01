@@ -1,12 +1,6 @@
 :root {
-    --background_color_one: #fff;
-    --background_color_two: #2a2a2a;
-    --background_color_three: #7880a5;
+    --bg-color-white: #fff;
+    --bg-color-black: #2a2a2a;
     --border_color: #D6E3F0;
     --highlight_color: #92929266;
-    --text_color_one: white;
-    --text_color_two: white;
-    --text_color_three: #939FA4;
-    --text_color_four: #A7B0B4;
-    --text_color_five: #F799A6;
 }

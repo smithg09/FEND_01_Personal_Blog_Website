@@ -1,10 +1,10 @@
-.header {
+.header-style {
     padding: 0px 10px;
     height: 4.25rem;
-    background-color: var(--background_color_two);
+    background-color: var(--bg-color-black);
 }
 
-.header_inner {
+.header-content {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -13,25 +13,25 @@
 .logo {
     font-size: 2.0rem;
     font-weight: 300;
-    color: var(--text_color_three);
+    color: #939FA4;
 }
 
-.logo_span {
+.logo-text {
     font-weight: 700;
-    color: var(--text_color_two);
+    color: white;
 }
 
-.page_menu_a {
-    color: var(--text_color_one);
+.links_a {
+    color: white;
     font-weight: 500;
     font-size: 0.875rem;
     padding: 0.625rem;
     margin: 0.9375rem;
 }
 
-.page_menu_a:hover {
+.links_a:hover {
     background: var(--highlight_color);
-    color: var(--background_color_one);
+    color: var(--bg-color-white);
     box-shadow: 0px 15px 40px rgba(0, 0, 0, 0.2);
     border-radius: 5px;
 }
