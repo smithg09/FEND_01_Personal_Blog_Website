@@ -4,7 +4,7 @@
 ### Table of Contents
 
 * [Instructions](#instructions)
-* [Architecture](#architecture)
+* [Structure](#structure)
 * [Description](#description)
 
 ### Instructions
@@ -17,7 +17,7 @@ This project is published on the GitHub Pages. To view, click on this link: [lin
 
 
 
-### Architecture 
+### Structure 
 This project have the following file structure:
 - css
     : *All Css files*
