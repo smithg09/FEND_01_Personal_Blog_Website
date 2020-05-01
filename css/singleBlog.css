@@ -1,6 +1,6 @@
-@import "color.css";
-@import "header.css";
 @import "general_css.css";
+@import "color.css";
+@import "headerstyles.css";
 @import "footer.css";
 article {
     margin: 0;

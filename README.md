@@ -6,6 +6,7 @@
 * [Instructions](#instructions)
 * [Structure](#structure)
 * [Description](#description)
+* [Sreenshots](#sreenshots)
 
 ### Instructions
 
@@ -24,7 +25,7 @@ This project have the following file structure:
 - images
     : *All images*
 - index.html
-- blog-post.html
+- singleBlog.html
 - README.md
 
 ### Description
@@ -41,3 +42,7 @@ I used all the skills that were taught during this course so far:
 - Grid
 - Responsive web
 - Media Query
+
+### Sreenshots 
+
+![Image 1](link-to-image)
