@@ -1,0 +1,21 @@
+@import "color.css";
+.footer {
+    border: 0.1rem;
+    border-color: black;
+    background-color: var(--background_color_two);
+}
+
+.footer_inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3.375rem 0;
+}
+
+.page_menu_footer_a {
+    color: var(--text_color_one);
+    font-weight: 500;
+    font-size: 0.875rem;
+    padding: 0.625rem;
+    margin: 0.9375rem;
+}
