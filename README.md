@@ -13,7 +13,7 @@ This project is made using HTML and CSS only i.e personal blog website. This pro
 
 - To use this website , simply clone the repo and open the `index.html` file in the browser.
 
-This project is published on the GitHub Pages. To view, click on this link: [link to project]()
+This project is published on the GitHub Pages. To view, click on this link: [link to project](https://smithg09.github.io/FEND_01_Personal_Blog_Website/index.html)
 
 
 
