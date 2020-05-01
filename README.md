@@ -20,9 +20,9 @@ This project is published on the GitHub Pages. To view, click on this link: [lin
 ### Architecture 
 This project have the following file structure:
 - css
-    *Css files*
+    : *All Css files*
 - images
-    *All images*
+    : *All images*
 - index.html
 - blog-post.html
 - README.md
